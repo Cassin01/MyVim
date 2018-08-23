@@ -1,5 +1,5 @@
 # MyVim
-This is My init.vim
+This is my init.vim
 
 ## Environment
 Ubuntu 18.04 LTS
